@@ -1,0 +1,23 @@
+{
+  "name": "hdgrijalba/yii2-datos-secundarios",
+  "description": "Extensión para datos secundarios",
+  "homepage": "http://casadedioscolombia.com",
+  "license": "BSD-3-Clause",
+  "type": "yii2-extension",
+  "version": "0.0.1",
+  "keywords": ["yii2", "datos", "model"],
+  "authors": [
+	{
+	  "name": "Daniel Grijalba",
+	  "email": "hdgrijalba@gmail.com"
+	}
+  ],
+  "autoload": {
+	"psr-4": {
+	  "hdgrijalba\\": ""
+	}
+  },
+  "require": {
+	"yiisoft/yii2": "*",
+  }
+}
